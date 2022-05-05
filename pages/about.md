@@ -18,6 +18,9 @@ Moving Stories Project tracks Islamic manuscripts of the romance genre from and 
 
 The project focuses on four works:
 
+<div id="cloud" class="text-center my-4 bg-light border rounded p-2"></div>
+{% include js/cloud-js.html fields="subject" min="1" stopwords="example;another" %}
+
 - Tutinama (link)
 - Bahar-i Danish (link)
 - Gulshan-i Ishq (link)
