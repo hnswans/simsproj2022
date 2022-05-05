@@ -25,7 +25,7 @@ The project focuses on four works:
 
 Links to pages
 
-{% include feature/card.html header="Across the Archive" text="MS Or 405" objectid=https://openn.library.upenn.edu/Data/0032/ms_or_405/data/web/9812_0001_web.jpg width="25" centered=true %}
+{% include feature/card.html header="Across the Archive" text="MS Or 405" objectid=sims001  width="25" centered=true %}
 
 This project was supported by the Schoenberg Institute for Manuscript Studies' Graduate Student Fellowship.
 
