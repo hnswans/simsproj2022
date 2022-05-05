@@ -1,5 +1,8 @@
 field,display_name
 title,Title
 date,Date
-description,Description
+pages,
+notes,notes
+script,script
+origin,origin
 subject,Subjects
