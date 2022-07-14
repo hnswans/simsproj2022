@@ -9,7 +9,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://openn.library.upenn.edu/Data/0032/ms_or_405/data/web/9812_0001_web.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="Introducing the 'Romance';Tracing Manuscripts' Movements;Tracing the Moving Stories" %}
 
 # About Moving Stories Project
 
