@@ -58,6 +58,8 @@ Discuss the many examples in Punjab catalog???
 
 Other stories seem to have circulated in court contexts. This is certainly true of the Tutinama in its non-abridged version, which circulated in sumptuously-illustrated court copies including the monumental one commissioned by the Mughal Emperor Akbar in the sixteenth century, held at the Metropolitan Museum of Art [CHECK]. Meanwhile the Gulshan-i Ishq, originally composed by a court poet in [Bijapur?] and dedicated to Ibrahim Adil Shah, mostly survives in illustrated manuscripts, which would have been expensive, elite objects. Many of them employ similar compositions to illustrate the same episodes, suggesting a practice of group reading informed by consumption of the images.
 
+{% include feature/image.html objectid="tuti_001" %}
+
 ### The Advent of the East India Trading Companies 
 
 When officials affiliated with the East India Company and other trading companies began arriving in India from the seventeenth century, their use of these stories and their manuscripts followed that by local elites. Illustrated books were valuable prized possessions, either given to cement relationships or bought and sold, while rougher copies were used and frequently marked up in the course of learning Persian from local teachers who were used to employing the stories for this purpose. A copy of the Bahar-i Danish bound together with a basic list of Persian verb conjugations and wrapped up in a lithographed Urdu textbook (Princeton OBJECT ID), and [ABRIDGED] Tutinama xxx, attest to this phenomenon.
