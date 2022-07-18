@@ -19,9 +19,9 @@ deployment:
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://movingstories.hnswanson.upenn.domains/
+url: https://hnswanson.upenn.domains
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /dashboard
+baseurl: /movingstories
 # location of code, the full url to your github repository
 source-code: https://github.com/hnswans/simsproj2022
 
