@@ -3,7 +3,8 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/documents/GitHub/simsproj2022
+    - export DEPLOYPATH=/home/hnswanso/public_html/
+    - /bin/cp -R * $DEPLOYPATH
   
     
  
