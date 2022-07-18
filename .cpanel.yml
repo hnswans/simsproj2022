@@ -5,6 +5,7 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/hnswanso/public_html/
     - /bin/cp -R * $DEPLOYPATH
+<<<<<<< HEAD
   
     
  
@@ -19,7 +20,7 @@ deployment:
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://hnswanson.upenn.domains
+url: https://movingstories.hnswanson.upenn.domains
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /movingstories
 # location of code, the full url to your github repository
@@ -93,3 +94,5 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
+=======
+>>>>>>> 817790ddb1bf1884ea6746515f60f66b69f7e5c1
