@@ -82,6 +82,3 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
 sass:
   style: compressed
-
-- name: Setup Ruby, JRuby and TruffleRuby
-  uses: ruby/setup-ruby@v1.111.0
