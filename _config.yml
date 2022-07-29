@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://apjanco.github.io 
+url: https://hnswans.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /simsproj2022
 # location of code, the full url to your github repository
-source-code: https://github.com/apjanco/simsproj2022
+source-code: https://github.com/hnswans/simsproj2022
 
 ##########
 # SITE SETTINGS
